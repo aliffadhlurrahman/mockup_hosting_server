@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    background-color: #4C0070;
+}
+
+.btn-login{
+    background-color: #9A0680;
+    outline: #9A0680;
+    color: white;
+    border-radius: 50px
+}
+
+.display-4{
+    font-size: 5em;
+    font-weight: 700;
+    color: white;
+    margin-left: 5%;
+}
+
+.lead{
+    margin-left: 5.5%;
+    color: white;
+}
+
+.card-header{
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    background-color: slateblue;
+    padding: 15px 0 15px 0;
+}
+
+.list-bottom{
+    width: 16em;
+    margin-bottom: 5%;
+}
+
+#list-head{
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #6E3CBC;
+    border-color: #6E3CBC;
+    color: black;
+}
+
+.list-group-item{
+    text-decoration: none;
+    color: white;
+}
+
+#list-bg-color{
+    background-color: #6E3CBC;
+    border-color: #6E3CBC;
+}
+
+.footer-me{
+    background-color: #6E3CBC; display: flex; flex-wrap: wrap; padding: 100px 0 50px 0;
+}
+
+.footer-teks{
+    margin: 0px 50px 5px 50px;
+}
+
